@@ -10,4 +10,4 @@ This study proposes a disparity estimation method for images captured by cameras
 
 ![promisechains](https://user-images.githubusercontent.com/29675793/34317684-66f6fc46-e7f7-11e7-80a0-eac76e2bd52b.jpg)
 
-![promisechains](https://user-images.githubusercontent.com/29675793/34317683-66ccca3e-e7f7-11e7-8a32-b26650938682.jpg)
+![promisechains](https://user-images.githubusercontent.com/29675793/34324522-71ec5070-e8b9-11e7-9f55-7a7c134baba1.jpg)
